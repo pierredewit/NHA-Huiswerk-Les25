@@ -1,0 +1,62 @@
+/*
+    CONTAINER
+*/
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+  padding-right:0px;
+  padding-left:0px;
+}
+
+body{
+  background-color: #c8d68b;
+    padding: 0px;
+  color:#212529;
+  }
+  header {
+    text-align: center;
+  }
+
+
+  footer, .header {
+    min-height: 40px;
+    background-color: #212529;
+    text-align: center;
+    width:100%;
+  }
+
+  footer p {
+    padding-top: 20px;
+  }
+
+ .content {
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+
+  #image_container img {
+    max-height: 300px;
+        border-radius: 10px;
+        border-style: solid;
+        border-color: #0398fb;  
+      }
+
+.active {
+  background-color:#0b03fb;
+}      
+
+#knop_wissen {
+  margin-top: 20px;
+}
+
+
+.bg_standard {
+  background-color: #c8d68b;
+}
+.bg_rood {
+  background-color: red;
+}
+.bg_groen {
+  background-color: green;
+}
+.bg_blue {
+  background-color: blue;
+}
